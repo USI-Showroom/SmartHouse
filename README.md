@@ -6,7 +6,7 @@ The Folders and Files Code and documentation for USI's SmartHouse model
 
 2. The SmartHouse system is implemented using three arduinos and many other servos and components.
 The code for each arudino is in three different folders<br/>
-3.The Fritizing sketches of all the schematic diagram in the manuals are in the Fritsing Sketches folder. <br/>
+3. The Fritizing sketches of all the schematic diagram in the manuals are in the Fritsing Sketches folder. <br/>
 
 4. All the other Images included in the documentation are in the Images folder. <br/>
 
